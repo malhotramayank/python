@@ -1,0 +1,6 @@
+def plu(z):
+    if z[-1]=='y':
+        z=z[0:-1]+'ies'
+    else:
+        z=z[0:-1]+'ies'
+print z
